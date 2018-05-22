@@ -8,7 +8,7 @@
     "privacy"
   ],
   "require": {
-    "heise/shariff": "^4.0",
+    "heise/shariff": "^7.1",
     "illuminate/support": "^5.1 || ^5.2",
     "illuminate/cache": "^5.1 || ^5.2",
     "illuminate/config": "^5.1 || ^5.2"
